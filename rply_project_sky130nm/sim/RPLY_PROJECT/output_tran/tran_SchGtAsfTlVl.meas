@@ -1,0 +1,9 @@
+* Measure RPLY_PROJECT
+.control
+
+load tran_SchGtAsfTlVl.raw
+
+echo "MEAS_START"
+
+echo "MEAS_END"
+.endc

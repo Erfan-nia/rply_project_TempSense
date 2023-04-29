@@ -1,0 +1,29 @@
+Note: No ".plot", ".print", or ".fourier" lines; no simulations run
+
+No compatibility mode selected!
+
+
+Circuit: * measure rply_project
+
+Loading raw data file ("tran_SchGtAffVhTl.raw") ...
+done.
+Title:  cicsimgen tran
+Name: DC transfer characteristic
+Date: Sat Apr 29 13:06:26  2023
+
+Here are the vectors currently active:
+
+Title: cicsimgen tran
+Name: dc1 (DC transfer characteristic)
+Date: Sat Apr 29 13:06:26  2023
+
+    i(v.xdut.x2.v5)     : current, real, 34 long
+    temp-sweep          : temp-sweep, real, 34 long [default scale]
+    v(v)                : voltage, real, 34 long
+    v(v1)               : voltage, real, 34 long
+    v(vamp)             : voltage, real, 34 long
+    v(vdd)              : voltage, real, 34 long
+    v(vref)             : voltage, real, 34 long
+    v(vss)              : voltage, real, 34 long
+MEAS_START
+MEAS_END
