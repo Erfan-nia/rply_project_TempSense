@@ -2,7 +2,8 @@
 # RPLY_PROJECT_SKY130NM
 
 # Who
-erfana
+Erfan Abdoliniafard
+Shima Shakouri
 
 # Why
  <explain why you made this module>
